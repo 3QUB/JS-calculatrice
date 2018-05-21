@@ -1,24 +1,44 @@
-# README
+## Objectifs des exercices
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Faire une calculatrice en JS.<br/>
+[Voir et tester l'App sur Heroku](https://sleepy-crag-75524.herokuapp.com/)
 
-Things you may want to cover:
 
-* Ruby version
+## A savoir :
+Les mini-exo du début sont dans app/assets/javascripts/mini-exo.js
+J'ai fait beaucoup de test pour la calculatrice et de fil en aiguille je suis tombé sur un solution très rapide.
+Si vous voulez en savoir plus n'hésitez pas à me demander.
 
-* System dependencies
+## Lancer l'app en local
 
-* Configuration
+```
+$ cd nom_du_dossier
+$ bundle install --without production
+$ rails db:create
+$ rails db:migrate
+```
 
-* Database creation
+## Pré-requis
 
-* Database initialization
+Projet libre de droit et d'accès à la lecture/écriture. 
+Pour pouvoir visualiser le projet, un simple navigateur suffit.
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
+```
+Firefox, Safari, Chrome, Internet Explorer 8, ...
+```
 
-* Deployment instructions
+## Construit avec
 
-* ...
+* Visual Studio Code
+* GitHub
+* Heroku
+
+
+## Contributors
+
+* Quentin : https://github.com/QUB-SPG
+
+## Slack
+
+* Quentin : @Quentin
